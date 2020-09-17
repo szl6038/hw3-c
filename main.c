@@ -1,4 +1,4 @@
-//Authoer 
+//Author: Shang Yuan Lim szl6038@psu.edu
 
 #include <stdio.h>
 #include<stdlib.h>
